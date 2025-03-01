@@ -1,0 +1,5 @@
+package com.dev.jobportal.entity;
+
+public class UsersType {
+
+}

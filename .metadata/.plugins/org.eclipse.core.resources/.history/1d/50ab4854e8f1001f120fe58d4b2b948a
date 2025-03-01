@@ -1,0 +1,5 @@
+package com.dev.jobportal.controller;
+
+public class UsersController {
+
+}

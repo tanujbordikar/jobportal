@@ -1,0 +1,15 @@
+package com.dev.jobportal;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+import org.springframework.context.annotation.ComponentScan;
+
+@SpringBootApplication
+@ComponentScan(basePackages = "com.dev.jobportal")
+public class JobportalApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(JobportalApplication.class, args);
+	}
+
+}
